@@ -1,0 +1,46 @@
+[
+  {
+    "id": "leftover",
+    "title": "LeftOver",
+    "shortSummary": "An innovative digital platform that integrates a culinary e-commerce ecosystem with artificial intelligence to address the critical issue of food waste. Developed during Garuda Hacks 6.0, advancing to the Finalist stage.",
+    "category": "Web Dev",
+    "context": "Hackathon",
+    "collaborationType": "Group Project",
+    "role": "Full-Stack Developer",
+    "team": ["Hansen Japri", "Rafael Romelo Gibran", "Naufal Rabani", "Victor Chandra"],
+    "impact": "LeftOver demonstrated that technology can serve as a meaningful bridge between sustainability and everyday consumer behavior. By reaching the Finalist stage at Garuda Hacks 6.0 — one of Indonesia's most competitive hackathons — the project validated both its social relevance and technical execution. The surplus food marketplace concept directly addresses food waste at the source, potentially diverting hundreds of kilograms of consumable food from landfills per participating business. The AI-powered recipe finder empowers households to make creative, waste-free use of near-expiration ingredients, reducing individual food waste without requiring lifestyle changes. Judges and mentors responded strongly to the real-world applicability of the solution, noting its dual-sided impact on both businesses facing surplus losses and consumers seeking affordable, quality food.",
+    "learning": "Building LeftOver under hackathon time constraints was an intensive crash course in cross-functional collaboration and rapid product development. The team quickly learned to scope features ruthlessly — prioritizing a polished core experience over a bloated feature set. Integrating AI into a real-time, user-facing application surfaced important lessons around prompt engineering, response handling, and graceful degradation when API calls are slow or unavailable. Working with Firebase for authentication and real-time data reinforced the value of schema planning upfront; early decisions on data structure directly impacted how smoothly the marketplace and recipe features scaled. Tailwind CSS enabled the team to iterate on UI rapidly while maintaining visual consistency. Most importantly, this project deepened the team's belief that well-designed software can genuinely drive behavioral change — and that hackathons are one of the best environments to test that hypothesis under pressure.",
+    "techStack": ["React", "AI", "Firebase", "Tailwind CSS"],
+    "thumbnail": "/images/LeftOver-1.png",
+    "media": {
+      "images": [],
+      "demoUrl": "https://letfover.vercel.app/",
+      "repoUrl": ""
+    },
+    "featured": true,
+    "date": "2024-07-20",
+    "status": "Completed"
+  },
+  {
+    "id": "dashboard-keuangan-toko",
+    "title": "Dashboard Keuangan Toko",
+    "shortSummary": "An independently engineered, web-based enterprise dashboard designed to streamline and digitize operations for traditional grocery retail businesses, covering the entire product development lifecycle from business logic to deployment.",
+    "category": "Web Dev",
+    "context": "Personal Initiative",
+    "collaborationType": "Individual",
+    "role": "Full-Stack Developer",
+    "team": [],
+    "impact": "Dashboard Keuangan Toko addresses a critical gap in Indonesia's informal economy, where millions of small grocery (sembako) store owners still rely entirely on manual bookkeeping. By digitizing this workflow, the platform gives store owners real-time visibility into stock levels, daily transactions, and revenue trends — transforming raw retail data into actionable business insights at a glance. Deploying on Vercel with Supabase as the backend delivers enterprise-grade reliability with near-zero infrastructure overhead, making it genuinely accessible for small businesses without dedicated IT staff. The end-to-end ownership of this project — from database schema design to frontend delivery — demonstrates the ability to independently ship production-ready software that solves tangible, real-world problems faced by traditional retailers across Indonesia.",
+    "learning": "This project was a comprehensive exercise in full-stack independence and product ownership. Designing the database architecture in Supabase from scratch demanded a deep understanding of relational data modeling — particularly around inventory transactions, product categories, and time-series sales records. Implementing user authentication end-to-end, from registration and login flows to session persistence, solidified best practices in secure access management. On the frontend, managing complex UI states — dynamic inventory tables, form validations, and real-time data fetching — deepened proficiency with React's state and effect patterns. Deploying to Vercel and connecting it to a live Supabase instance provided hands-on experience with environment variable management and production configuration. Most crucially, this solo project built a strong foundation in product ownership: every technical and UX decision was made and validated independently, cultivating both confidence and full accountability for the final outcome.",
+    "techStack": ["React", "AI", "Supabase", "Tailwind CSS"],
+    "thumbnail": "/images/keuangan.png",
+    "media": {
+      "images": [],
+      "demoUrl": "https://dashboard-toko-sembako.vercel.app/login",
+      "repoUrl": ""
+    },
+    "featured": true,
+    "date": "2025-03-10",
+    "status": "Completed"
+  }
+]

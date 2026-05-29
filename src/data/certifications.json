@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cert-1",
+    "name": "Finalist — Garuda Hacks 6.0",
+    "issuer": "Garuda Hacks",
+    "date": "2026-07",
+    "verificationUrl": "/certificate/Finalist Garuda Hacks 6.0.pdf",
+    "category": "Achievement"
+  },
+  {
+    "id": "cert-2",
+    "name": "Full-Stack JavaScript Web Developer (Advanced Level)",
+    "issuer": "ITBOX",
+    "date": "2024",
+    "verificationUrl": "/certificate/ITBox-Certificate_Belajar-Menjadi-Full-Stack-JavaScript-Web-Developer-Tingkat-Mahir_Hansen-Japri.pdf",
+    "category": "Development"
+  },
+  {
+    "id": "cert-3",
+    "name": "Evaluation Certificate — CEH Penetration Testing",
+    "issuer": "Course-Net (CEH Program)",
+    "date": "2026-01",
+    "verificationUrl": "/certificate/ECC-Evaluation-Certificate.pdf",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": "cert-4",
+    "name": "Participant — Competitive Programming FIND IT! 2025",
+    "issuer": "FIND IT! UGM",
+    "date": "2025-01",
+    "verificationUrl": "/certificate/E-Sertifikat Peserta Competitive Programming FIND IT! 2025 Hansen Japri.pdf",
+    "category": "Achievement"
+  },
+  {
+    "id": "cert-5",
+    "name": "Participant — Competitive Programming Arkavidia! 2025",
+    "issuer": "Arkavidia ITB",
+    "date": "2025",
+    "verificationUrl": "/certificate/Participants_Certificate_Hansen Japri.pdf",
+    "category": "Achievement"
+  }
+]

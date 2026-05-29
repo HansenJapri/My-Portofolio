@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Frontend Development",
+    "icon": "monitor",
+    "color": "accent",
+    "skills": ["React JS", "Next JS", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "category": "Backend Development",
+    "icon": "server",
+    "color": "emerald",
+    "skills": ["Node.js", "Express.js", "Python", "FastAPI", "MySQL", "MongoDB", "C"]
+  },
+  {
+    "category": "Tools & Platforms",
+    "icon": "wrench",
+    "color": "blue",
+    "skills": ["Git / GitHub", "Postman", "Docker", "n8n", "Generative AI"]
+  },
+  {
+    "category": "Security & AI",
+    "icon": "shield",
+    "color": "red",
+    "skills": ["Penetration Testing", "CEH Framework", "Prompt Engineering", "AI Image & Video Generation"]
+  },
+  {
+    "category": "Business & Management",
+    "icon": "briefcase",
+    "color": "amber",
+    "skills": ["Leadership", "Project Management", "Business Analysis", "Business Case", "Problem Solving", "Strong Communication"]
+  },
+  {
+    "category": "Languages",
+    "icon": "globe",
+    "color": "purple",
+    "skills": ["Indonesian (Native)", "English (Professional)", "Chinese / Mandarin (Conversational)"]
+  }
+]

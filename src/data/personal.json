@@ -1,0 +1,25 @@
+{
+  "name": "Hansen Japri",
+  "tagline": "Crafting Digital Experiences That Matter",
+  "subtitle": "Business Man · Project Manager · Problem Solver",
+  "bio": [
+    "I am an early-stage business developer and startup catalyst who believes that great technology must bridge a strong business vision with precise technical execution to create innovative, high-market-value products.",
+    "My journey began with an in-depth analysis of market narratives and trends, through which I realized that the future would inevitably pivot toward and revolve around AI and blockchain. This early fascination with the macro potential of these technologies quickly transformed my path in informatics into a deep passion for building real-world, problem-solving products—ranging from an AI-powered food rescue marketplace to comprehensive digital ecosystems. I combine technical expertise, such as system architecture and AI agent implementation, with strategic business thinking to deliver solutions that are not only technically sound but also viable and scalable.",
+    "When I am not coding or formulating product strategies, I actively analyze capital market dynamics as a stock swing trader. I am a firm believer in continuous learning, rapid adaptation to emerging technologies, and the value of knowledge-sharing to foster mutual growth.",
+    "Currently, alongside leading my ongoing startup ventures, I am building a software house to help businesses across various sectors transform their digital concepts into robust commercial products. I am always open to collaboration opportunities on high-impact projects where I can leverage my skills in Agile project management and end-to-end product development."
+  ],
+  "avatar": "/images/HansenJapri.jpg",
+  "resumeUrl": "/certificate/Hansen Japri CV Resume.pdf",
+  "socialLinks": {
+    "github": "https://github.com/HansenJapri",
+    "linkedin": "https://www.linkedin.com/in/hansen-japri/",
+    "email": "hansenj5206@gmai.com",
+    "instagram": "https://www.instagram.com/hnsen_j"
+  },
+  "stats": {
+    "projectCount": 5,
+    "yearsExperience": 4,
+    "certifications": 5,
+    "techMastered": 20
+  }
+}

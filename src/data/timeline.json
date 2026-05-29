@@ -1,0 +1,102 @@
+[
+  {
+    "id": "tl-edu-1",
+    "type": "education",
+    "title": "Bachelor of Information Technology (S.Kom.)",
+    "organization": "Universitas Multimedia Nusantara",
+    "startDate": "2024-01",
+    "endDate": "2028-12",
+    "description": "Pursuing a Bachelor's degree in Informatics at one of Indonesia's leading technology-focused universities. Building deep expertise in software engineering, system architecture, and AI — with a strong emphasis on real-world, product-driven learning.",
+    "highlights": ["Major: Informatics", "Expected graduation: 2028", "Focus: AI, System Architecture & Software Engineering"]
+  },
+  {
+    "id": "tl-training-1",
+    "type": "education",
+    "title": "Certified Ethical Hacker (CEH) — Penetration Testing Training",
+    "organization": "Course-Net",
+    "startDate": "2026-01",
+    "endDate": "Present",
+    "description": "Undergoing structured professional training in ethical hacking and penetration testing under the globally recognized CEH framework. Developing hands-on competency in identifying, exploiting, and remediating security vulnerabilities across modern systems.",
+    "highlights": ["CEH-aligned curriculum", "Penetration testing & vulnerability assessment", "Ongoing — 2026 to present"]
+  },
+  {
+    "id": "tl-training-2",
+    "type": "education",
+    "title": "Full-Stack JavaScript Web Developer Training",
+    "organization": "ITBOX",
+    "startDate": "2024-01",
+    "endDate": "2024-01",
+    "description": "Completed an intensive full-stack web development training program, covering modern JavaScript ecosystems from frontend to backend — including React, Node.js, and database integration.",
+    "highlights": ["Advanced level certification", "Full-stack JavaScript", "React & Node.js"]
+  },
+  {
+    "id": "tl-work-1",
+    "type": "work",
+    "title": "CEO & Project Manager — Software House Startup",
+    "organization": "Self-Founded",
+    "startDate": "2026-05",
+    "endDate": "Present",
+    "description": "Founded and currently leading a software house startup with a lean team of 4, providing end-to-end digital solutions including web applications, mobile apps, and custom systems for clients across various industries. Responsible for business strategy, client relations, project scoping, and overall technical direction.",
+    "highlights": ["Team of 4 including CEO", "Full-spectrum software services", "Web, mobile & custom systems on demand"]
+  },
+  {
+    "id": "tl-org-1",
+    "type": "work",
+    "title": "Vice Chairman — UMN Programming Club",
+    "organization": "Universitas Multimedia Nusantara",
+    "startDate": "2025-09",
+    "endDate": "2026-09",
+    "description": "Serving as Vice Chairman of the UMN Programming Club, collaborating with the executive board (BPH) to drive the club's vision and organize flagship annual events — including an internal competitive programming contest open to all UMN students, and the Awarding Night as the celebratory grand finale.",
+    "highlights": ["Internal competitive programming contest", "Awarding Night — annual grand finale", "Executive board (BPH) leadership"]
+  },
+  {
+    "id": "tl-achievement-1",
+    "type": "achievement",
+    "title": "Finalist — Garuda Hacks 6.0",
+    "organization": "Garuda Hacks",
+    "startDate": "2026-07-24",
+    "endDate": "2026-07-26",
+    "description": "Competed in Garuda Hacks 6.0, one of Indonesia's most prestigious hackathons, as part of a collaborative team. Built LeftOver — an AI-powered food rescue marketplace — over the course of the event, and advanced to the Finalist stage in recognition of the solution's innovation and real-world impact.",
+    "highlights": ["Finalist — Garuda Hacks 6.0", "Built LeftOver in 30 hours", "AI-powered food waste solution"]
+  },
+  {
+    "id": "tl-achievement-2",
+    "type": "achievement",
+    "title": "Top 6 Finalist — UMN × CIMB Niaga Project Collaboration",
+    "organization": "Universitas Multimedia Nusantara × CIMB Niaga",
+    "startDate": "2025-12",
+    "endDate": "2025-12",
+    "description": "Led the project as Project Manager for a university-industry collaboration between UMN and CIMB Niaga. The team successfully delivered a comprehensive project proposal and achieved a Top 6 Finalist placement — recognized for strategic thinking, structured project management, and the quality of the final deliverable.",
+    "highlights": ["Top 6 Finalist", "Role: Project Manager", "University × Industry collaboration"]
+  },
+  {
+    "id": "tl-work-2",
+    "type": "work",
+    "title": "Founder — Reed Diffuser Business",
+    "organization": "Self-Founded",
+    "startDate": "2025-05",
+    "endDate": "2026-02",
+    "description": "Independently founded and operated a premium home fragrance business specializing in reed diffusers. Managed the full business cycle — from product curation and branding to multi-channel sales and customer engagement — across Instagram, WhatsApp, and TikTok Shop.",
+    "highlights": ["Multi-channel sales: Instagram, WhatsApp, TikTok Shop", "Solo business owner", "End-to-end operations management"]
+  },
+  {
+    "id": "tl-work-3",
+    "type": "work",
+    "title": "Founder — Custom & Designed Clothing Brand",
+    "organization": "Self-Founded (Partnership)",
+    "startDate": "2023-01",
+    "endDate": "2024-06",
+    "description": "Founded a fashion micro-brand together with a business partner — originating the concept and driving its execution — offering self-designed and custom-printed apparel. Handled brand identity, product design, and sales operations through Instagram and WhatsApp, building a loyal customer base through personalized offerings.",
+    "highlights": ["Founder (2 members total)", "Original design & custom orders", "Sales via Instagram & WhatsApp"]
+  },
+  {
+    "id": "tl-work-4",
+    "type": "work",
+    "title": "Founder — Custom Phone Case Business",
+    "organization": "Self-Founded",
+    "startDate": "2021-01",
+    "endDate": "2021-06",
+    "description": "Launched a solo entrepreneurial venture at age 15 during the COVID-19 pandemic while in Grade 9 of junior high school. Designed, sourced, and sold custom phone cases to peers and online customers via Instagram and WhatsApp — demonstrating early commercial initiative and self-sufficiency under challenging circumstances.",
+    "highlights": ["Started at age 15 (Grade 9 SMP)", "During COVID-19 pandemic", "Solo-operated via Instagram & WhatsApp"]
+  }
+]
