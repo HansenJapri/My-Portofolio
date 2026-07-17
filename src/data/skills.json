@@ -9,7 +9,7 @@
     "category": "Backend Development",
     "icon": "server",
     "color": "emerald",
-    "skills": ["Node.js", "Express.js", "Python", "FastAPI", "MySQL", "MongoDB", "C"]
+    "skills": ["Node.js", "Express.js", "Python", "FastAPI", "MySQL", "PostgreSQL", "MongoDB", "Prisma Client", "System Architecture Design", "API Testing", "Unit Testing", "C"]
   },
   {
     "category": "Tools & Platforms",
